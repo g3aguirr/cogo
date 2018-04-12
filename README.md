@@ -2,7 +2,7 @@
 Cogs 121 Spring Group
 # Names
 Giovanni Aguirre
-William Chu..
+William Zhu..
 Yue Wu..
 Irene Garcia..
 # Idea
