@@ -47,26 +47,26 @@ Team COGO's Submission for Milestone 2.
 
 ### Prototype 2
 #### Login Screen
-![1](Milestone_2/Prototypes/2/2-000.PNG)
+![1](Milestone_2/Prototypes/2/2-000.png)
 #### Home page
-![1](Milestone_2/Prototypes/2/2-001.PNG)
+![1](Milestone_2/Prototypes/2/2-001.png)
 #### Language Selected
-![1](Milestone_2/Prototypes/2/2-002.PNG)
+![1](Milestone_2/Prototypes/2/2-002.png)
 #### Monday's Word Selected
-![1](Milestone_2/Prototypes/2/2-003.PNG)
+![1](Milestone_2/Prototypes/2/2-003.png)
 #### Monday's Word
-![1](Milestone_2/Prototypes/2/2-004.PNG)
+![1](Milestone_2/Prototypes/2/2-004.png)
 #### Quiz Selected
-![1](Milestone_2/Prototypes/2/2-005.PNG)
+![1](Milestone_2/Prototypes/2/2-005.png)
 #### Quiz
-![1](Milestone_2/Prototypes/2/2-006.PNG)
+![1](Milestone_2/Prototypes/2/2-006.png)
 #### Translate Selected
-![1](Milestone_2/Prototypes/2/2-007.PNG)
+![1](Milestone_2/Prototypes/2/2-007.png)
 #### Translate
-![1](Milestone_2/Prototypes/2/2-008.PNG)
+![1](Milestone_2/Prototypes/2/2-008.png)
 #### Words Learned Selected
-![1](Milestone_2/Prototypes/2/2-009.PNG)
+![1](Milestone_2/Prototypes/2/2-009.png)
 #### Other Features
-![1](Milestone_2/Prototypes/2/2-010.PNG)
+![1](Milestone_2/Prototypes/2/2-010.png)
 #### Settings Selected
-![1](Milestone_2/Prototypes/2/2-011.PNG)
+![1](Milestone_2/Prototypes/2/2-011.png)
