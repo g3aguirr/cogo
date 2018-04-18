@@ -5,7 +5,6 @@ Team COGO's Submission for Milestone 2.
 ## Storyboards
 ### Storyboard 1
 ![1](Milestone_2/Storyboards/1.jpg)
-<<<<<<< HEAD
 ![2](Milestone_2/Storyboards/2.JPG)
 
 
