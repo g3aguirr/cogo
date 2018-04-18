@@ -5,6 +5,8 @@ Team COGO's Submission for Milestone 2.
 ## Storyboards
 ### Storyboard 1
 ![1](Milestone_2/Storyboards/1.jpg)
+### Story Board 2
+#### The individual will be traveling to Bolivia in a few months. In preparation for the trip, they use the app to learn and practice Spanish. Once in Bolivia, they have minimal issues in communicating with others in Spanish. 
 ![2](Milestone_2/Storyboards/2.JPG)
 
 
