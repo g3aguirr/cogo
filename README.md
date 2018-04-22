@@ -1,15 +1,10 @@
-# cogo
-Cogs 121 Spring Group
-# Names
-Giovanni Aguirre
 
-William Chu
+# Team COGO
 
-Yue Wu
+For COGS 121, SP18.
 
-Irene Garcia
-
-# Idea
-
-
-
+**Team Members:**
+- Giovanni Aguirre
+- William Zhu
+- Yue Wu
+- Irene Garcia
