@@ -7,10 +7,10 @@
 .navbar li {
     float: left; /* Float links side by side */
     text-align: center; /* Center-align text */
-    width: 33.3%; /* Equal width */
+    width: 25%; /* Equal width */
     padding: 12px; /* Top and bottom padding */
     transition: all 0.3s ease; /* Transition for hover effects */
-    font-size: 30px; /* font size */
+    font-size: 25px; /* font size */
 }
 .navbar a {
     color: white; /* White text color */
