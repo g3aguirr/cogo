@@ -12,7 +12,7 @@
     transition: all 0.3s ease; /* Transition for hover effects */
     font-size: 30px; /* font size */
 }
-.navbar a{
+.navbar a {
     color: white; /* White text color */
 }
 
@@ -25,10 +25,10 @@
 }
 
 body {
-text-align: center;
+    text-align: center;
 }
 
-form{
+form {
     display: inline-block;
     text-align: center;
 }
