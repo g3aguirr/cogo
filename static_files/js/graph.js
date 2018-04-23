@@ -1,7 +1,9 @@
 $(function() {
   const graphExample = (data, type, title) => {
+    console.log('data[0] is', data[0]);
+    console.log('data[1] is', data[1]);
     const trace = setTrace(data[0], data[1], 'rgb(55, 128, 191)');
-    
+
     data = [trace];
     const layout = {
       title: title,
@@ -12,10 +14,10 @@ $(function() {
         title: 'y'
       }
     };
-    
+
     Plotly.newPlot("graph-" + type, data, layout);
   }
-  
+
   const setTrace = (x, y, color) => {
     return {
       x: x,
@@ -26,10 +28,25 @@ $(function() {
       }
     };
   }
-  
-  const xData = ['a', 'the', 'hello', 'thing', 'game'];
-  const yData = [50, 100, 5, 20, 10];
-  const data = [xData, yData];
-  
-  graphExample(data, 'example', 'Example Graph');
+
+  let data = [];
+
+  $.ajax({
+    url: '/exampleX',
+    type: 'GET',
+    dataType: 'json',
+    success: (xData) => {
+      data.push(xData);
+
+      $.ajax({
+          url: '/exampleY',
+          type: 'GET',
+          dataType: 'json',
+          success: (yData) => {
+            data.push(yData);
+            graphExample(data, 'example', 'Example Graph');
+          }
+      });
+    }
+  });
 });
