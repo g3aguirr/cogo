@@ -1,0 +1,25 @@
+.navbar {
+    width: 100%; /* Full-width */
+    background-color: #4ca0af; /* Dark-grey background */
+    overflow: auto; /* Overflow due to float */
+}
+
+.navbar li {
+    float: left; /* Float links side by side */
+    text-align: center; /* Center-align text */
+    width: 33.3%; /* Equal width */
+    padding: 12px; /* Top and bottom padding */
+    transition: all 0.3s ease; /* Transition for hover effects */
+    font-size: 30px; /* font size */
+}
+.navbar a{
+    color: white; /* White text color */
+}
+
+.navbar li:hover {
+    background-color: #696969; /* Hover color */
+}
+
+.active {
+    background-color: #808080; /* active/current tab color */
+}
