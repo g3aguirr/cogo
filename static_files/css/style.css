@@ -23,3 +23,12 @@
 .active {
     background-color: #808080; /* active/current tab color */
 }
+
+body {
+text-align: center;
+}
+
+form{
+    display: inline-block;
+    text-align: center;
+}
